@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\au756424\\source\\repos\\H2\\GenericRepository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{359A8501-3992-4BDF-A655-8DB23AEB3EDE}|GenericRepository.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{359A8501-3992-4BDF-A655-8DB23AEB3EDE}|GenericRepository.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{359A8501-3992-4BDF-A655-8DB23AEB3EDE}|GenericRepository.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericrepository\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{359A8501-3992-4BDF-A655-8DB23AEB3EDE}|GenericRepository.csproj|solutionrelative:phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A8501-3992-4BDF-A655-8DB23AEB3EDE}|GenericRepository.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359A8501-3992-4BDF-A655-8DB23AEB3EDE}|GenericRepository.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{359A8501-3992-4BDF-A655-8DB23AEB3EDE}|GenericRepository.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericrepository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,16 +22,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Phone.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\GenericRepository\\Phone.cs",
               "RelativeDocumentMoniker": "Phone.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\GenericRepository\\Phone.cs*",
-              "RelativeToolTip": "Phone.cs*",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\GenericRepository\\Phone.cs",
+              "RelativeToolTip": "Phone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T07:43:35.343Z",
@@ -39,12 +39,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\GenericRepository\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\GenericRepository\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\GenericRepository\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T07:09:35.618Z",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Repository.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAmwBYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T07:02:16.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T07:02:16.928Z"
             }
           ]
         }
