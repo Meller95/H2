@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericsdogsandcircles\\evenbetterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:evenbetterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericsdogsandcircles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericsdogsandcircles\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericsdogsandcircles\\evenbetterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|solutionrelative:evenbetterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F585A7D-CC9C-4467-BF06-CB2B6DE1AF5D}|GenericsDogsAndCircles.csproj|c:\\users\\au756424\\source\\repos\\h2\\genericsdogsandcircles\\betterobjectcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EvenBetterObjectComparer.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\EvenBetterObjectComparer.cs",
               "RelativeDocumentMoniker": "EvenBetterObjectComparer.cs",
               "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\EvenBetterObjectComparer.cs",
               "RelativeToolTip": "EvenBetterObjectComparer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T10:25:28.613Z",
               "EditorCaption": ""
@@ -68,20 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAABMAAAA",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T08:46:49.035Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dog.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\Dog.cs",
               "RelativeDocumentMoniker": "Dog.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\GenericsDogsAndCircles\\Circle.cs",
               "RelativeDocumentMoniker": "Circle.cs",
