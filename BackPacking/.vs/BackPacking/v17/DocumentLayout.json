@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\au756424\\source\\repos\\H2\\BackPacking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59332E-80BC-421F-A0D7-E5AFA8AF940B}|BackPacking.csproj|c:\\users\\au756424\\source\\repos\\h2\\backpacking\\algorithms\\backpackingsolverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59332E-80BC-421F-A0D7-E5AFA8AF940B}|BackPacking.csproj|solutionrelative:algorithms\\backpackingsolverbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59332E-80BC-421F-A0D7-E5AFA8AF940B}|BackPacking.csproj|c:\\users\\au756424\\source\\repos\\h2\\backpacking\\algorithms\\backpackingsolversmart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59332E-80BC-421F-A0D7-E5AFA8AF940B}|BackPacking.csproj|solutionrelative:algorithms\\backpackingsolversmart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F59332E-80BC-421F-A0D7-E5AFA8AF940B}|BackPacking.csproj|c:\\users\\au756424\\source\\repos\\h2\\backpacking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F59332E-80BC-421F-A0D7-E5AFA8AF940B}|BackPacking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackPackingSolverBase.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\BackPacking\\Algorithms\\BackPackingSolverBase.cs",
+              "RelativeDocumentMoniker": "Algorithms\\BackPackingSolverBase.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\BackPacking\\Algorithms\\BackPackingSolverBase.cs*",
+              "RelativeToolTip": "Algorithms\\BackPackingSolverBase.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:55:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\BackPacking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\BackPacking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:49:56.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackPackingSolverSmart.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\BackPacking\\Algorithms\\BackPackingSolverSmart.cs",
+              "RelativeDocumentMoniker": "Algorithms\\BackPackingSolverSmart.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\BackPacking\\Algorithms\\BackPackingSolverSmart.cs",
+              "RelativeToolTip": "Algorithms\\BackPackingSolverSmart.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:07:09.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
