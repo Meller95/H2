@@ -21,7 +21,7 @@ namespace Threads
 
         public bool SetAndTest(int n)
         {
-            lock (lockObject)
+            using (new ScopedLocker(lockObject))
             {
                 Set(n);
                 return Test(n);

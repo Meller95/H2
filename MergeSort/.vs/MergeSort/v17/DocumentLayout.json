@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|c:\\users\\au756424\\source\\repos\\h2\\mergesort\\mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|c:\\users\\au756424\\source\\repos\\h2\\mergesort\\mergesort\\threadpoolparallelmergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\threadpoolparallelmergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|c:\\users\\au756424\\source\\repos\\h2\\mergesort\\mergesort\\thresholdparallelmergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\thresholdparallelmergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|c:\\users\\au756424\\source\\repos\\h2\\mergesort\\mergesort\\randomarraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29514BE8-1333-4D4A-A487-3F95817527DF}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\randomarraygenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThresholdParallelMergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\ThresholdParallelMergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort\\ThresholdParallelMergeSort.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\ThresholdParallelMergeSort.cs",
+              "RelativeToolTip": "MergeSort\\ThresholdParallelMergeSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:48:45.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThreadpoolParallelMergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\ThreadpoolParallelMergeSort.cs",
+              "RelativeDocumentMoniker": "MergeSort\\ThreadpoolParallelMergeSort.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\ThreadpoolParallelMergeSort.cs",
+              "RelativeToolTip": "MergeSort\\ThreadpoolParallelMergeSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:17:26.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeDocumentMoniker": "MergeSort\\Program.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\Program.cs",
+              "RelativeToolTip": "MergeSort\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T05:57:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RandomArrayGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\RandomArrayGenerator.cs",
+              "RelativeDocumentMoniker": "MergeSort\\RandomArrayGenerator.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\MergeSort\\MergeSort\\RandomArrayGenerator.cs",
+              "RelativeToolTip": "MergeSort\\RandomArrayGenerator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:04:28.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
