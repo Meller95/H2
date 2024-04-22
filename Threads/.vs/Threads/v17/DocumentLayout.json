@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\au756424\\source\\repos\\H2\\Threads\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|c:\\users\\au756424\\source\\repos\\h2\\threads\\threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|c:\\users\\au756424\\source\\repos\\h2\\threads\\threads\\scopedlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\scopedlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|c:\\users\\au756424\\source\\repos\\h2\\threads\\threads\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|c:\\users\\au756424\\source\\repos\\h2\\threads\\threads\\scopedlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\scopedlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|c:\\users\\au756424\\source\\repos\\h2\\threads\\threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C07DCF9-0BE7-46AC-9578-26FAB4874112}|Threads\\Threads.csproj|solutionrelative:threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ScopedLocker.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\Threads\\Threads\\ScopedLocker.cs",
               "RelativeDocumentMoniker": "Threads\\ScopedLocker.cs",
               "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\Threads\\Threads\\ScopedLocker.cs",
               "RelativeToolTip": "Threads\\ScopedLocker.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T06:45:35.098Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "Threads\\Vector.cs",
               "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\Threads\\Threads\\Vector.cs",
               "RelativeToolTip": "Threads\\Vector.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBsAAAANAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T08:08:29.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\Threads\\Threads\\Program.cs",
               "RelativeDocumentMoniker": "Threads\\Program.cs",
               "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\Threads\\Threads\\Program.cs",
               "RelativeToolTip": "Threads\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA9wBkAAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA9wBQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T08:07:11.198Z",
               "EditorCaption": ""
