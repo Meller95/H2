@@ -7,14 +7,11 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        
         IWeapon playerWeapon = ChooseWeapon();
-        Player player = new Player(playerWeapon);
+        // Provide the full set of required parameters to create a Player
+        Player player = new Player("Hero", "The brave protagonist of our story", 150, playerWeapon);
 
-        IWeapon enemyWeapon = WeaponFactory.CreateWeapon();
-        Enemy enemy = new Enemy(enemyWeapon);
-
-        Game game = new Game(player, enemy);
+        Game game = new Game(player);  // Only pass the player
         await game.StartGameAsync();
     }
 

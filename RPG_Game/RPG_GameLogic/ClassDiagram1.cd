@@ -17,7 +17,7 @@
   <Class Name="RPG_GameLogic.GameManagement.Game">
     <Position X="10.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAEAAAAIAAAAAAAAAAAAAABAAoAAAAQAAI=</HashCode>
+      <HashCode>AAAAAAAAAAAEQAAAAAAAAAAAAAABAAABAAIAAAAYAII=</HashCode>
       <FileName>GameManagement\Game.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -40,18 +40,16 @@
   <Class Name="RPG_GameLogic.Units.Enemy" BaseTypeListCollapsed="true">
     <Position X="9" Y="3.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>ABAAAAAAAIAgCAAgAAAAAAQAAAAAAAgAAAAAgAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Units\Enemy.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="RPG_GameLogic.Units.Player" BaseTypeListCollapsed="true">
     <Position X="3.5" Y="1.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>ABAAAAAAAIAgCAAgAAAAAAQAAAAAAAgAAAAAgAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Units\Player.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Interface Name="RPG_GameLogic.Interfaces.IUnit" Collapsed="true">
     <Position X="5.25" Y="5.5" Width="1.5" />

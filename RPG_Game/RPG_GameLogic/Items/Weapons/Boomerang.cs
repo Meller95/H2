@@ -32,10 +32,6 @@ namespace RPG_GameLogic.Items.Weapons
             {
                 Console.WriteLine($"{target.Name} has {target.CurrentHealth} health remaining.\n");
             }
-            else
-            {
-                Console.WriteLine($"{target.Name} has been knocked out by the boomerang!\n");
-            }
         }
     }
 }
