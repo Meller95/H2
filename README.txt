@@ -1,6 +1,6 @@
 # RPG Game
 
-This project is a console-based role-playing game (RPG) where the player battles against various enemies using chosen weapons. The game continues in turns until the player is defeated.
+This project is a console-based role-playing game (RPG) where the player battles against Goblins using chosen weapons. The game continues in turns until the player is defeated.
 
 ## Features
 
@@ -11,8 +11,7 @@ This project is a console-based role-playing game (RPG) where the player battles
 
 ## Installation
 
-To run this game, you'll need to install [.NET](https://dotnet.microsoft.com/download) on your machine.
-
+Download the project from my github and make sure to have visual studio installed.
 
 Game Mechanics
 Player: Initiates with chosen weapon and fixed health.
