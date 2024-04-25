@@ -11,10 +11,10 @@ namespace RPG_GameLogic.Items.Weapons
             await Task.Delay(1000);
             
 
-            // Generate random base damage between 10 and 25
-            int baseDamage = rng.Next(13, 30); // Next(10, 26) gives a random number between 10 and 25
+            
+            int baseDamage = rng.Next(13, 30);
 
-            // 10% chance to do half damage
+            
             double chance = rng.NextDouble();
             int damage = chance < 0.1 ? baseDamage / 2 : baseDamage;
 

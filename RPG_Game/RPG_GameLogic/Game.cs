@@ -14,13 +14,13 @@ namespace RPG_GameLogic.GameManagement
         public Game(Player player)
         {
             this.player = player;
-            this.enemy = CreateNewEnemy(); // Initialize with the first enemy
+            this.enemy = CreateNewEnemy();
         }
 
         private Enemy CreateNewEnemy()
         {
-            int health = rng.Next(75, 96); // Random health between 75 and 95
-            IWeapon weapon = WeaponFactory.CreateWeapon(); // Assume WeaponFactory correctly creates a weapon
+            int health = rng.Next(40, 60);
+            IWeapon weapon = WeaponFactory.CreateWeapon();
             Enemy newEnemy = new Enemy("Goblin", "Just another sneaky goblin", health, weapon);
             Console.WriteLine($"A new goblin appears! It looks sneaky.\n");
             return newEnemy;
@@ -30,7 +30,7 @@ namespace RPG_GameLogic.GameManagement
         {
             Console.WriteLine();
 
-            while (player.CurrentHealth > 0) // Continue as long as the player is alive
+            while (player.CurrentHealth > 0) 
             {
                 if (enemy.CurrentHealth <= 0)
                 {
@@ -39,7 +39,7 @@ namespace RPG_GameLogic.GameManagement
                 }
 
                 await PerformTurn(player, enemy);
-                if (player.CurrentHealth <= 0) break; // Exit if the player is defeated
+                if (player.CurrentHealth <= 0) break; 
 
                 if (enemy.CurrentHealth > 0)
                 {
@@ -69,8 +69,10 @@ namespace RPG_GameLogic.GameManagement
 
         private void EndGame()
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Game over!");
             Console.WriteLine($"{player.Name} has been defeated!\n");
+            Console.ResetColor();
         }
     }
 }

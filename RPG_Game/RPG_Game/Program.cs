@@ -8,10 +8,11 @@ class Program
     static async Task Main(string[] args)
     {
         IWeapon playerWeapon = ChooseWeapon();
-        // Provide the full set of required parameters to create a Player
+
         Player player = new Player("Hero", "The brave protagonist of our story", 150, playerWeapon);
 
-        Game game = new Game(player);  // Only pass the player
+        Game game = new Game(player);
+
         await game.StartGameAsync();
     }
 
@@ -34,7 +35,7 @@ class Program
                 case "3":
                     return WeaponFactory.CreateWeapon("Boomerang");
                 default:
-                    Console.WriteLine("Invalid choice, please choose 1 for Sword or 2 for Axe.");
+                    Console.WriteLine("Invalid choice, please choose 1 for Sword, 2 for Axe or 3 for boomerang.");
                     break;
             }
         }

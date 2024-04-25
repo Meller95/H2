@@ -1,68 +1,84 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="RPG_GameLogic.Factories.UnitFactory">
-    <Position X="8.75" Y="1.75" Width="1.5" />
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="RPG_GameLogic.Units.Enemy">
+    <Position X="6.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Factories\UnitFactory.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="RPG_GameLogic.Factories.WeaponFactory">
-    <Position X="5.25" Y="2.75" Width="1.5" />
+  <Class Name="RPG_GameLogic.Units.Player">
+    <Position X="9.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Factories\WeaponFactory.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="RPG_GameLogic.GameManagement.Game">
-    <Position X="10.75" Y="0.5" Width="1.5" />
+    <Position X="18.25" Y="0.5" Width="2.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAEQAAAAAAAAAAAAAABAAABAAIAAAAYAII=</HashCode>
-      <FileName>GameManagement\Game.cs</FileName>
+      <HashCode>AAAEAAAAAAAEAEAAAAAAAAAAAAABAAABAAAAAAAYAAI=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnitBase">
+    <Position X="7.75" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAIAgCAAgAAAAAAQAAAAAAAgAAAAAgAAAAAA=</HashCode>
+      <FileName>UnitBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPG_GameLogic.Factories.UnitFactory">
+    <Position X="20.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnitFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RPG_GameLogic.Factories.WeaponFactory">
+    <Position X="18.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WeaponFactory.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="RPG_GameLogic.Items.Weapons.Axe" BaseTypeListCollapsed="true">
-    <Position X="5" Y="0.5" Width="1.5" />
+    <Position X="13.75" Y="4" Width="1.75" />
     <TypeIdentifier>
       <HashCode>ABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Items\Weapons\Axe.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RPG_GameLogic.Items.Weapons.Boomerang" BaseTypeListCollapsed="true">
+    <Position X="15.75" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Items\Weapons\Boomerang.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="RPG_GameLogic.Items.Weapons.Sword" BaseTypeListCollapsed="true">
-    <Position X="7" Y="1.75" Width="1.5" />
+    <Position X="11.75" Y="4" Width="1.75" />
     <TypeIdentifier>
       <HashCode>ABAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Items\Weapons\Sword.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
+    <Lollipop Position="0.112" />
   </Class>
-  <Class Name="RPG_GameLogic.Units.Enemy" BaseTypeListCollapsed="true">
-    <Position X="9" Y="3.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Units\Enemy.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Class Name="RPG_GameLogic.Units.Player" BaseTypeListCollapsed="true">
-    <Position X="3.5" Y="1.25" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Units\Player.cs</FileName>
-    </TypeIdentifier>
-  </Class>
-  <Interface Name="RPG_GameLogic.Interfaces.IUnit" Collapsed="true">
-    <Position X="5.25" Y="5.5" Width="1.5" />
+  <Interface Name="RPG_GameLogic.Interfaces.IUnit">
+    <Position X="5.5" Y="1" Width="1.75" />
     <TypeIdentifier>
       <HashCode>ABAAAAAAAIAgCAAgAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
-      <FileName>Interfaces\IUnit.cs</FileName>
+      <FileName>IUnit.cs</FileName>
     </TypeIdentifier>
   </Interface>
-  <Interface Name="RPG_GameLogic.Interfaces.IWeapon" Collapsed="true">
-    <Position X="7.25" Y="5.25" Width="1.5" />
+  <Interface Name="RPG_GameLogic.Interfaces.IWeapon">
+    <Position X="11.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
-      <FileName>Interfaces\IWeapon.cs</FileName>
+      <FileName>IWeapon.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Font Name="Segoe UI" Size="9" />

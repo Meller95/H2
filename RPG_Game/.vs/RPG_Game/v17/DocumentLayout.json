@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\gamemanagement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\gamemanagement\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\helpers\\unitbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\helpers\\unitbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\units\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\units\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\interfaces\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\interfaces\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\interfaces\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\interfaces\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\units\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\items\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\items\\weapons\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\items\\weapons\\boomerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\items\\weapons\\boomerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\unitbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\unitbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\unitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\unitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\iunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1CB119A-E313-4B8D-82AC-A2E380DEDEB6}|RPG_Game\\RPG_Game.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1CB119A-E313-4B8D-82AC-A2E380DEDEB6}|RPG_Game\\RPG_Game.csproj|solutionrelative:rpg_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\rpg_gamelogic\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\items\\weapons\\boomerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\items\\weapons\\boomerang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\items\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\items\\weapons\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\factories\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\factories\\weaponfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\factories\\unitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\factories\\unitfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|solutionrelative:rpg_gamelogic\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7FAA9AD0-4E81-43EF-AFCE-E4929DB30FEC}|RPG_GameLogic\\RPG_GameLogic.csproj|c:\\users\\au756424\\source\\repos\\h2\\rpg_game\\rpg_gamelogic\\rpg_gamelogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,42 +66,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Sword.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Items\\Weapons\\Sword.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:31:49.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Units\\Enemy.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Units\\Enemy.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Units\\Enemy.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Units\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:30:17.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Units\\Player.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Units\\Player.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Units\\Player.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Units\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Player.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\Player.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Player.cs",
+              "RelativeToolTip": "RPG_GameLogic\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T06:20:02.06Z",
@@ -109,12 +83,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "UnitBase.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\UnitBase.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\UnitBase.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\UnitBase.cs",
+              "RelativeToolTip": "RPG_GameLogic\\UnitBase.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:31:01.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitFactory.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\UnitFactory.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\UnitFactory.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\UnitFactory.cs",
+              "RelativeToolTip": "RPG_GameLogic\\UnitFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T06:49:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeaponFactory.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\WeaponFactory.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\WeaponFactory.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\WeaponFactory.cs",
+              "RelativeToolTip": "RPG_GameLogic\\WeaponFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T08:09:30.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\ClassDiagram1.cd",
+              "RelativeToolTip": "RPG_GameLogic\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-04-23T10:43:25.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IWeapon.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IWeapon.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Interfaces\\IWeapon.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IWeapon.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Interfaces\\IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\IWeapon.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\IWeapon.cs",
+              "RelativeToolTip": "RPG_GameLogic\\IWeapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T09:59:27.349Z",
@@ -122,13 +147,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IUnit.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Interfaces\\IUnit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\IUnit.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\IUnit.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\IUnit.cs",
+              "RelativeToolTip": "RPG_GameLogic\\IUnit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T09:59:15.978Z",
               "EditorCaption": ""
@@ -137,97 +162,84 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\GameManagement\\Game.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\GameManagement\\Game.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\GameManagement\\Game.cs*",
-              "RelativeToolTip": "RPG_GameLogic\\GameManagement\\Game.cs*",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABIAAAA",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Game.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\Game.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Game.cs*",
+              "RelativeToolTip": "RPG_GameLogic\\Game.cs*",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwEoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T07:54:51.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitBase.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Helpers\\UnitBase.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Helpers\\UnitBase.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Helpers\\UnitBase.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Helpers\\UnitBase.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAowBsAAAA3AAAA",
+              "DocumentIndex": 10,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Enemy.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\Enemy.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Enemy.cs",
+              "RelativeToolTip": "RPG_GameLogic\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T08:31:01.877Z",
+              "WhenOpened": "2024-04-23T06:30:17.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Boomerang.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBsAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T08:11:14.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_Game\\Program.cs",
               "RelativeDocumentMoniker": "RPG_Game\\Program.cs",
               "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_Game\\Program.cs",
               "RelativeToolTip": "RPG_Game\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T09:59:03.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
+              "Title": "Boomerang.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
+              "RelativeToolTip": "RPG_GameLogic\\Items\\Weapons\\Boomerang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T08:11:14.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Axe.cs",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Axe.cs",
               "RelativeDocumentMoniker": "RPG_GameLogic\\Items\\Weapons\\Axe.cs",
               "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Axe.cs",
               "RelativeToolTip": "RPG_GameLogic\\Items\\Weapons\\Axe.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T06:32:36.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeaponFactory.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Factories\\WeaponFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Sword.cs",
+              "RelativeDocumentMoniker": "RPG_GameLogic\\Items\\Weapons\\Sword.cs",
+              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Items\\Weapons\\Sword.cs",
+              "RelativeToolTip": "RPG_GameLogic\\Items\\Weapons\\Sword.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T08:09:30.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UnitFactory.cs",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Factories\\UnitFactory.cs",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\Factories\\UnitFactory.cs",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\Factories\\UnitFactory.cs",
-              "RelativeToolTip": "RPG_GameLogic\\Factories\\UnitFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T08:09:30.335Z",
+              "WhenOpened": "2024-04-23T06:31:49.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "RPG_GameLogic",
+              "Title": "RPG_GameLogic.csproj",
               "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\RPG_GameLogic.csproj",
               "RelativeDocumentMoniker": "RPG_GameLogic\\RPG_GameLogic.csproj",
               "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\RPG_GameLogic.csproj",
@@ -235,18 +247,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-23T10:41:19.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\ClassDiagram1.cd",
-              "RelativeDocumentMoniker": "RPG_GameLogic\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\au756424\\source\\repos\\H2\\RPG_Game\\RPG_GameLogic\\ClassDiagram1.cd",
-              "RelativeToolTip": "RPG_GameLogic\\ClassDiagram1.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-04-23T10:43:25.077Z",
               "EditorCaption": ""
             }
           ]
